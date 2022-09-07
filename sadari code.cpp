@@ -65,7 +65,7 @@ int main() {
     return 0;
 }
 
-int SaDaRi(int number, char array_1[][100]) {
+ SaDaRi(int number, char array_1[][100]) {
 
     int sadari1[] = { 25,5,23 }; // 사다리 세로줄 
     int x = 6; //  사다리 가로줄 (아스키 코드 : - ) 
